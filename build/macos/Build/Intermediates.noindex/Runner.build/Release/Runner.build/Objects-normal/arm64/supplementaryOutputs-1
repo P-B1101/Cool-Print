@@ -1,0 +1,9 @@
+"/Users/pedrammohammadalipour/Dev/Projects/console_challenge/macos/Runner/MainFlutterWindow.swift":
+  dependencies: "/Users/pedrammohammadalipour/Dev/Projects/console_challenge/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/Objects-normal/arm64/Runner-master.d"
+  objc-header: "/Users/pedrammohammadalipour/Dev/Projects/console_challenge/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/Objects-normal/arm64/console_challenge-Swift.h"
+  abi-baseline-json: "/Users/pedrammohammadalipour/Dev/Projects/console_challenge/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/Objects-normal/arm64/console_challenge.abi.json"
+  swiftmodule: "/Users/pedrammohammadalipour/Dev/Projects/console_challenge/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/Objects-normal/arm64/console_challenge.swiftmodule"
+  swiftsourceinfo: "/Users/pedrammohammadalipour/Dev/Projects/console_challenge/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/Objects-normal/arm64/console_challenge.swiftsourceinfo"
+  diagnostics: "/Users/pedrammohammadalipour/Dev/Projects/console_challenge/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/Objects-normal/arm64/Runner-master.dia"
+  swiftdoc: "/Users/pedrammohammadalipour/Dev/Projects/console_challenge/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/Objects-normal/arm64/console_challenge.swiftdoc"
+  const-values: "/Users/pedrammohammadalipour/Dev/Projects/console_challenge/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/Objects-normal/arm64/Runner-master.swiftconstvalues"

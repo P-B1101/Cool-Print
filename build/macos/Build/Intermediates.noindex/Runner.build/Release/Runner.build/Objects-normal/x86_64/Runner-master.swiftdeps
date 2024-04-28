@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "a26bda9bd46a68e7763a28ab2b7eda06b91fa06a37786bfd2b54f9f5efa78e5b"
+build_start_time: [1714294970, 433675000]
+build_end_time: [1714294975, 182110000]
+inputs:
+  ? "/Users/pedrammohammadalipour/Dev/Projects/console_challenge/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1714294970, 381399307]
+  "/Users/pedrammohammadalipour/Dev/Projects/console_challenge/macos/Flutter/GeneratedPluginRegistrant.swift": [1714294958, 859759868]
+  "/Users/pedrammohammadalipour/Dev/Projects/console_challenge/macos/Runner/AppDelegate.swift": [1687205598, 553164035]
+  "/Users/pedrammohammadalipour/Dev/Projects/console_challenge/macos/Runner/MainFlutterWindow.swift": [1687205598, 553955159]
